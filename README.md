@@ -1,6 +1,5 @@
 # react-context-todo
 
-
 Tạo 1 ứng dụng todo app như design. Sử dụng react và hoàn thành các stories sau:
 
 User story 1: User có thể thêm task mới.
